@@ -16,5 +16,5 @@ fi
 git commit
 
 
-git commit -m "${pushmessage}"
+git commit -m ${pushmessage}
 git push -u origin master
