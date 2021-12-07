@@ -13,7 +13,7 @@ then
 else
     pushmessage="$*"
 fi
-git commit
+#git commit >/dev/null
 
 
 git commit -m ${pushmessage}
