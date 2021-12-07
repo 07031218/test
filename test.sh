@@ -17,5 +17,5 @@ fi
 
 
 git commit -m ${pushmessage}
-git push -u origin master
+#git push -u origin master
 git push
